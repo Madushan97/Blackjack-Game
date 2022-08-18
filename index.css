@@ -1,0 +1,31 @@
+h1 {
+    color: goldenrod;
+    align-content: center;
+}
+
+body {
+    font-family: Lucida Console;
+    background-color: rgb(56, 94, 7);
+    text-align: center;
+    padding-top: 150px;
+    font-weight: bold;
+    font-size: larger;
+    color: aliceblue;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    height: 40px;
+    font-weight: bold;
+    background: goldenrod;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
